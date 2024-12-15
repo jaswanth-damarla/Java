@@ -1,6 +1,6 @@
 2. import java.util.*;
 
-      public class HW{
+      public class F1{
           public static void main(String arg[]){
             Scanner sc = new Scanner(System.in);
             System.out.print("Enter the side of a square: ");
